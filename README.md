@@ -35,7 +35,7 @@ Also fetching data from the network with an API via repository pattern.
 - [Timber](https://github.com/JakeWharton/timber) - logging.
 
 ## Find this repository useful? :heart:
-Support it by joining __[stargazers](https://github.com/bangaromaric/repos-talk/stargazers)__ for this repository. :star: 🤩 <br>
+Support it by joining __[stargazers](https://github.com/bangaromaric/hilt-mvvm/stargazers)__ for this repository. :star: 🤩 <br>
 
 ## countriesnowAPI
 
